@@ -13,4 +13,4 @@ My posts are live documents and I update them with the comments/reviews I get an
 
 What I write here mostly applies on .NET world (especially C#) and Scrum teams.
 
-Test
+Test235
