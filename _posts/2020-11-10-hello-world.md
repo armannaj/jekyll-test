@@ -12,3 +12,5 @@ My name is Arman and here is my new blog. I would like to write my thoughts abou
 My posts are live documents and I update them with the comments/reviews I get and new information I learn.
 
 What I write here mostly applies on .NET world (especially C#) and Scrum teams.
+
+Test
