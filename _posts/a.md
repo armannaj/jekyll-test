@@ -17,3 +17,7 @@ first thing you need to do is to be able to take control of your domain. You wan
 Jekyll is a static website builder. That means there is no backend or api or database. Then where would you store your blog posts?&#x20;
 
 In files. Stored in a repository. In Github.
+
+
+
+## Make sure your url slugs don't change
