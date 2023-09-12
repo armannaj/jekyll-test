@@ -11,3 +11,9 @@ So I decided to move my contents from Wordpress to a blog created by Jekyll. Lit
 ## Take control of your domain
 
 first thing you need to do is to be able to take control of your domain. You want to be able to change the DNS settings of it. I'm not sure if Wordpress.Com allows you to do so. What I did was to move the domain out of wordpress.com and transfer it to Google Domains. I had to renew the domain and pay a small fee (about 18$), but Google Domains gives me the freedom I wanted as well as some more features.
+
+## Learn how Jekyll works
+
+Jekyll is a static website builder. That means there is no backend or api or database. Then where would you store your blog posts?&#x20;
+
+In files. Stored in a repository. In Github.
